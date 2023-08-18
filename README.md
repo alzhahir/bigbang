@@ -1,6 +1,6 @@
-# Versa Challenge
+# Big Bang
 
-Versa challenge question answer
+This program determines if a number is divisible by 3, 5, or both.
 
 ## Installation & Execution
 
