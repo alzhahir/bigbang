@@ -1,6 +1,6 @@
 # Big Bang
 
-This program determines if a number is divisible by 3, 5, or both.
+This program determines if a number from 1 to 100 is divisible by 3, 5, or both.
 
 ## Installation & Execution
 
